@@ -1,6 +1,7 @@
 import React from "react";
 import {Grid, Typography} from "@mui/material";
 
+
 function Header() {
 
     return (
@@ -23,7 +24,6 @@ function Content() {
                         padding: "5px"
                         
                     }}>
-
         <Typography variant="h5" align = "center" sx ={{
                         background: "linear-gradient(to right, #D90000 30%, #FFFFFF 80%)",
                         position: "relative", 

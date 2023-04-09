@@ -40,7 +40,6 @@ function PatternsNode() {
         theme: "ayu-dark",
         lineNumbers:true,
         mode:"javascript",
-        style: "color: white"
     }
     return(
             <>
