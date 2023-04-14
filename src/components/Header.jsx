@@ -24,7 +24,7 @@ function Content() {
                         padding: "5px"
                         
                     }}>
-        <Typography variant="h5" align = "center" sx ={{
+            <Typography variant="h5" align = "center" sx ={{
                         background: "linear-gradient(to right, #D90000 30%, #FFFFFF 80%)",
                         position: "relative", 
                         padding: "5px",
@@ -34,12 +34,10 @@ function Content() {
                         
                     }}>
 
-            In this blog you can see Event Loop on Examples
-        </Typography>   
+                In this blog you can see Event Loop on Examples
+            </Typography>   
         </Grid>
-        
-        
-        </>
+</>
     )
 }
 
