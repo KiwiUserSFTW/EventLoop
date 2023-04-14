@@ -1,6 +1,6 @@
 import Terminal from "../Terminal/CodemirrorTerminal";
 
-function PatternsNative() {
+function ChromePage() {
 
     return (
         <>
@@ -9,4 +9,4 @@ function PatternsNative() {
     )
 }
 
-export default PatternsNative;
+export default ChromePage;
